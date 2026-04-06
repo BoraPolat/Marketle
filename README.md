@@ -156,13 +156,13 @@ Automatic light/dark theme switching based on system preference.
 
 ## 👥 Development Team
 
-Built by a team of 5 over 5 weeks.
+Developed by a team of 5 over 7 weeks. Project research, system architecture, and team leadership were carried out by Bora Polat.
 
 | Team | Members | Responsibility |
 |---|---|---|
 | **Frontend & UX** | Alya Zubeyde Ahmad | Next.js UI, mobile responsiveness, map integration, PWA setup |
 | **Backend & Data** | Özgen Özkaran, Elif Şentürk | Database architecture, security policies, query optimization |
-| **AI & Operations** | Bora Polat, İbrahim Değer | Gemini API integration, data validation logic, seed data |
+| **AI & Operations** | Bora Polat, İbrahim Değer | Gemini API integration, AI-based image analysis and data insertion automation, data validation logic, and seed data. |
 
 ---
 
