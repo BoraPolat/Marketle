@@ -2,10 +2,10 @@
 
 <br/>
 
-# 🛒 Marketle
+# 🛒 Marketle 
 
 ### Find the cheapest grocery store in your neighborhood — powered by the community, in real time
-
+(MVP - Minimum Viable Product)
 <br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
