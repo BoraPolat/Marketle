@@ -166,10 +166,14 @@ Developed by a team of 5 over 7 weeks. Project research, system architecture, an
 
 ---
 
-## 📄 License
+## 📄 License & Contact
 
-This project is licensed under the MIT License.
+**© 2026 Bora Polat. All Rights Reserved.**
 
+This repository is for **showcase and portfolio purposes only**. The source code, design, and architecture are proprietary and closed-source. You may not copy, distribute, modify, or use any part of this project without explicit written permission.
+
+For inquiries, feedback, or collaboration requests, please contact:
+📩 **borapolade@outlook.com**
 ---
 
 <div align="center">
